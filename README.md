@@ -2,7 +2,7 @@
 ## Requisitos Previos
 
 - PHP (versión 7.4 o superior recomendada)
-- MySQL
+- MySQL (dump incluido en apiBooks.sql) 
 - Servidor web
 
 # Tiempo dedicado al proyecto <8 horas
